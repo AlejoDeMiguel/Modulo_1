@@ -1,4 +1,4 @@
-cv.pdf
+##Curriculum hecho en LaTeX
 
 \documentclass[11pt,a4paper,sans]{article}
 
